@@ -33,3 +33,34 @@ a {
   text-decoration: none;
   color: #E5E7EB;
 }
+
+/* Hero banner (top-content) */
+.top-content{
+  display:flex;
+  background-color: #1F2937;
+}
+
+.left-side{
+  width: 500px;
+  display:flex;
+  border: 5px solid #1F2937;
+  flex-direction: column;
+}
+
+.header-text{
+  font-size: 48px;
+  color:#F9FAF8;
+  font-weight: bolder;
+  /* border: 5px solid #1F2937; */
+}
+
+.sub-text{
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.sign-up{
+  color: white;
+  background-color: #3882F6;
+  width: 140px;
+}
