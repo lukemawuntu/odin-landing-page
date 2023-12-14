@@ -135,5 +135,27 @@ img{
 
 .thor{
   align-self: flex-end;
+  font-size: 24px;
   font-weight: bolder;
+}
+
+/* Call to action */
+
+.call-to-action{
+  background-color: #3882F6;
+  display:flex;
+  justify-content: space-between;
+  padding: 24px 64px;
+  width: 1000px;
+  margin:64px auto;
+}
+
+.action-header{
+  color:#F9FAF8;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.action-text{
+  color: #E5E7EB
 }
