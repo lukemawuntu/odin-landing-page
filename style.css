@@ -84,19 +84,26 @@ a {
 
 /* Information section */
 
-/* .information-content{
+.information-content{
   display:flex;
   flex-direction: column;
   width:900px;
   height:400pxss;
-  border:5px dotted purple;
+  text-align: center;
+}
+
+.information-header{
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937
 }
 
 img{
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
-.images{
-  display:flex;
-  border: 5px solid black;
-} */
+
+.image-container{
+  display:flex; 
+}
+
