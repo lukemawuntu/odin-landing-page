@@ -157,14 +157,9 @@ img{
   color: #E5E7EB
 }
 
-.action-sign-up{
-  color:#F9FAF8;
-  background-color: #3882F6;
-  border: 2px solid #F9FAF8;
-  border-radius: 5px;
-  width: 100px;
-  height: 35px;
-  padding: 4px;
+audio {
+  width: 250px;
+  height: 75px;
 }
 
 /* footer */
