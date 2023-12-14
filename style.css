@@ -111,3 +111,28 @@ img{
   gap: 32px;
 }
 
+/* Quote section */
+
+.quote-content{
+  background-color: #E5E7EB;
+}
+
+.quote-container{
+  display:flex;
+  flex-direction: column;
+  width: 820px;
+  height: 190px;
+  margin: auto;
+  padding: 85px;
+}
+
+.quote{
+  font-size: 36px;
+  font-style:italic;
+  color: #1F2937;
+}
+
+.thor{
+  align-self: flex-end;
+  font-weight: bolder;
+}
